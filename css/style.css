@@ -1,0 +1,16 @@
+@charset "utf-8";
+#day{
+  font-size: 70px;
+}
+
+#hour{
+  font-size: 70px;
+}
+
+#min{
+  font-size: 70px;
+}
+
+#sec{
+  font-size: 70px;
+}
