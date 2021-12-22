@@ -71,4 +71,4 @@ function again() {
 // ↓anserを一回だけ実行するように命令している
 answer();
 
-
+// 画面にplaceholderつけて画面上で期限を設定できるようにしたい
